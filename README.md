@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Brian Omondi
+Backend Software Engineer | Python Enthusiast
 
-<!--
-**omondii/omondii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and Technologies
+- C
+- Python
+- Django
+- JavaScript
+- MySQL
 
-Here are some ideas to get you started:
+  ## Projects
+  1. AirBnB Clone - A full stack Airbnb clone. Also developed a console to test out new features
+  2. ExploreKe - A web application that allows for travellers and campers to explore destinations and write about them.
+ 
+     !omondii Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Connect with Me;
+  LinkedIn -> https://www.linkedin.com/in/omondii/
+  Twitter -> https://twitter.com/cosmisdev
+
+  
