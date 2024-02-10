@@ -13,7 +13,6 @@ Backend Software Engineer | Python Enthusiast
   2. ExploreKe - A web application that allows for travellers and campers to explore destinations and write about them.
 
 # My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=omondii&show_icons=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omondii)](https://github.com/anuraghazra/github-readme-stats)
 
